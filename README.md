@@ -1,7 +1,8 @@
-### Hi there 👋
+# Ismael José Díaz Pérez
 
-<!--
-**IsmaelJos/IsmaelJos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cuenta dedicada a los proyectos de programacion
+
+<!--**IsmaelJos/IsmaelJos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
